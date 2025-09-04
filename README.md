@@ -1,4 +1,8 @@
-### Hi there 👋
+### hey, I'm Kayla! 🙋‍♀️
+
+- 😊 Pronouns: she/her/hers
+- 👩‍💻 Currently working on client work and [MagnoliaConf](https://2025.magnoliaconf.com).
+- 💬 Ask me about front-end development, 3D printing, LEGO, and lifting weights 🏋️‍♀️
 
 <!--
 **kaylasween/kaylasween** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
