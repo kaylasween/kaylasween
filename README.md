@@ -1,7 +1,7 @@
 ### Hey, I'm Kayla! 🙋‍♀️
 
 - 😊 Pronouns: she/her/hers
-- 👩‍💻 Currently working on client work and [MagnoliaConf](https://2025.magnoliaconf.com).
+- 👩‍💻 Currently working on client work, [MagnoliaConf](https://2025.magnoliaconf.com), and Magnolia Bricks (the LEGO business).
 - 💬 Ask me about front-end development, 3D printing, LEGO, and lifting weights 🏋️‍♀️
 
 <!--
