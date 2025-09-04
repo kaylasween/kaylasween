@@ -1,4 +1,4 @@
-### hey, I'm Kayla! 🙋‍♀️
+### Hey, I'm Kayla! 🙋‍♀️
 
 - 😊 Pronouns: she/her/hers
 - 👩‍💻 Currently working on client work and [MagnoliaConf](https://2025.magnoliaconf.com).
